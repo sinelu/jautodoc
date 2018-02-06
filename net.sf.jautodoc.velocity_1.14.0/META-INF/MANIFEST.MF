@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JAutodoc Velocity Plug-in
+Bundle-SymbolicName: net.sf.jautodoc.velocity
+Bundle-Version: 1.14.0
+Bundle-ClassPath: velocity-dep-1.5.jar,.
+Bundle-Vendor: Martin Kesting
+Bundle-Localization: plugin
+Export-Package: net.sf.jautodoc.velocity.log,org.apache.commons.collec
+ tions,org.apache.commons.collections.iterators,org.apache.commons.col
+ lections.map,org.apache.commons.lang,org.apache.commons.lang.builder,
+ org.apache.commons.lang.enums,org.apache.commons.lang.exception,org.a
+ pache.commons.lang.math,org.apache.commons.lang.mutable,org.apache.co
+ mmons.lang.time,org.apache.oro.io,org.apache.oro.text,org.apache.oro.
+ text.awk,org.apache.oro.text.perl,org.apache.oro.text.regex,org.apach
+ e.oro.util,org.apache.velocity,org.apache.velocity.anakia,org.apache.
+ velocity.app,org.apache.velocity.app.event,org.apache.velocity.app.ev
+ ent.implement,org.apache.velocity.app.tools,org.apache.velocity.conte
+ xt,org.apache.velocity.convert,org.apache.velocity.exception,org.apac
+ he.velocity.io,org.apache.velocity.runtime,org.apache.velocity.runtim
+ e.defaults,org.apache.velocity.runtime.directive,org.apache.velocity.
+ runtime.log,org.apache.velocity.runtime.parser,org.apache.velocity.ru
+ ntime.parser.node,org.apache.velocity.runtime.resource,org.apache.vel
+ ocity.runtime.resource.loader,org.apache.velocity.runtime.resource.ut
+ il,org.apache.velocity.runtime.visitor,org.apache.velocity.servlet,or
+ g.apache.velocity.texen,org.apache.velocity.texen.ant,org.apache.velo
+ city.texen.defaults,org.apache.velocity.texen.util,org.apache.velocit
+ y.util,org.apache.velocity.util.introspection
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+
